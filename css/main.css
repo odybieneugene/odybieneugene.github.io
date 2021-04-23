@@ -1,8 +1,13 @@
 body {
-    width: auto;
-    background-color: black;
+  font-size: 18px;
+  line-height: 1.5;
+  width: auto;
+  background-color: black;
 }
-header, footer {
-    background-color: #198c8c;
 
+header, nav , main , footer {
+    margin: 1.25rem auto ;
+    max-width: 760;
+
+   background-color: #198c8c;
 }
