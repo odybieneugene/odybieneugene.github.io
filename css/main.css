@@ -9,7 +9,7 @@ nav,
 main,
 footer {
   margin: 1.25rem auto;
-  max-width: 480px;
+  max-width: 760px;
   background-color: #198c8c;
 }
 header,
@@ -23,5 +23,5 @@ p img{
     float: right;
     margin: 10px;
     border: 1px solid #fff;
-    max-width: 100px;
+    max-width: 300px;
 }
