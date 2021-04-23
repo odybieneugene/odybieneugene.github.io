@@ -2,7 +2,7 @@ body {
     width: auto;
     background-color: black;
 }
-header{
+header, footer {
     background-color: #198c8c;
 
 }
