@@ -11,6 +11,17 @@ main,
 footer {
   margin: 1.25rem auto;
   max-width: 760;
-
   background-color: #198c8c;
+}
+header,
+footer{
+    color: #fff;
+    text-align: center;
+    padding: 1.5rem;
+}
+
+p img{
+    float: right;
+    margin: 10px;
+    border: 1px solid #fff;
 }
