@@ -10,7 +10,7 @@ nav,
 main,
 footer {
   margin: 1.25rem auto;
-  max-width: 760;
+  max-width: 760px;
   background-color: #198c8c;
 }
 header,
