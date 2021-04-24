@@ -25,6 +25,7 @@ p img{
     float: right;
     margin: 10px;
     border: 1px solid #fff;
+    max-width: auto;
 
 }
 
