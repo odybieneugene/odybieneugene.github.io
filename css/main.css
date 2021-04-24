@@ -21,7 +21,7 @@ footer{
 }
 
 p img{
-    float: right;
+    float: left;
     margin: 10px;
     border: 1px solid #fff;
     max-width: 100px;
