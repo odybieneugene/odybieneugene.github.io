@@ -20,6 +20,10 @@ footer{
     padding: 1.5rem;
 }
 
+div{
+  float: inline-end;
+}
+
 p img{
     float: top left;
     margin: 10px;
