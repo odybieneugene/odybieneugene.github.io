@@ -1,11 +1,11 @@
 body {
+  display: block;
   font-size: 18px;
   line-height: 1.5;
   background-color: black;
 }
 
 header,
-h3,
 nav,
 main,
 footer {
@@ -19,10 +19,6 @@ footer{
     color: #fff;
     text-align: center;
     padding: 1.5rem;
-}
-
-div{
-  float: left;
 }
 
 p img{
