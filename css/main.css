@@ -32,3 +32,10 @@ p img{
 .Top ul li {
   text-decoration: none;
 }
+h1 h2 h3 {
+  font-family: 'Lato', sans-serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
