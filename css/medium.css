@@ -7,5 +7,6 @@
 }
 section {
     display: grid;
+    grid-row: float;
     grid-template-columns: 1fr 1fr 1fr;
 }
