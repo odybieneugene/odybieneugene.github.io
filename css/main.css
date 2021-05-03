@@ -6,12 +6,13 @@ body {
 }
 main {
   display: inline;
+  background-color: azure;
 }
 header,
 footer {
   margin: 1.25rem auto;
   max-width: 760px;
-  background-color: #198c8c;
+  background-color: #bccaca;
   padding: 1rem;
 }
 header,
