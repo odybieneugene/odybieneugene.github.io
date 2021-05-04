@@ -1,17 +1,18 @@
 main {
   background-color: azure;
+  max-width: 80%;
+  margin: 1.25rem , auto;
+  padding: 1rem;
   font-size: 18px;
   line-height: 1.5;
-  margin: auto;
-  max-width: 80%;
-  padding: auto;
+  text-align: center;
 }
 
 header,
 footer {
-  margin: 1.25rem auto;
-  max-width: 760px;
   background-color: #bccaca;
+  max-width: 760px;
+  margin: 1.25rem auto;
   padding: 1rem;
   color: #fff;
   text-align: center;
