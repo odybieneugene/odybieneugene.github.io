@@ -15,12 +15,8 @@ footer {
   max-width: 760px;
   background-color: #bccaca;
   padding: 1rem;
-}
-header,
-footer{
-    color: #fff;
-    text-align: center;
-    padding: 1.5rem;
+  color: #fff;
+  text-align: center;
 }
 
 p img{
