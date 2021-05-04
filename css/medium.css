@@ -1,11 +1,6 @@
 @media only screen and (min-width: 32.5em) {
-    .profile {
-        width: 200;
-        float: left;
+    img {
+        float: right;
+        margin-top: 15%;
     }
-    
-}
-main {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
 }
