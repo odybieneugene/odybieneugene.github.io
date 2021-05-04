@@ -1,11 +1,12 @@
-body {
+#Wrapper {
   display: grid;
+  grid-template-columns: minmax(0px, 1fr); repeat(6, minmax(0, 150px)) minmax(0px, 1fr)
   font-size: 18px;
   line-height: 1.5;
   background-color: rgb(250, 248, 248);
 }
 main {
-  display: inline;
+  grid-column: 2 / 8;
   background-color: azure;
 }
 header,
