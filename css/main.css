@@ -33,6 +33,9 @@ h1, h2, h3 {
   font-family: 'Lato', sans-serif;
   text-align: center;
 }
+ul {
+  text-decoration: none;
+}
 
 p {
   font-family: 'Roboto', sans-serif;
