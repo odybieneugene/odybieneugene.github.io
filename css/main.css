@@ -5,9 +5,9 @@
   line-height: 1.5;
   background-color: rgb(250, 248, 248);
 }
-main {
+	/* main {
   grid-column: 2 / 8;
-  background-color: azure;
+  background-color: azure;  */
 }
 header,
 footer {
