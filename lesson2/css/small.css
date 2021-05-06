@@ -2,6 +2,8 @@
     html {
         font-size: 1rem;
     }
+    .content {
+        border: none;
 
     main {
         display: grid;
