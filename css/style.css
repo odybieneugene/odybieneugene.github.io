@@ -7,10 +7,12 @@ html {
 
 main {
     background-color: rgb(88, 241, 241);
-    margin: 1.25rem , auto;
+    margin-left: 10%;
     padding: 1rem;
     font-size: 18px;
     line-height: 1.5;
+    max-width: 760px;
+
 
   }
   
@@ -25,13 +27,13 @@ main {
   }
   
   img{
-      width: auto;
+      width: 200px;
       margin: 10px;
       border: 1px solid #fff;
       max-width: 90%;
       margin-left: auto;
       margin-right: auto;
-      display: block;
+      float: right;
   
   }
   
@@ -40,6 +42,7 @@ main {
     text-align: center;
   }
   ul li {
+    display: block;
     text-decoration: none;
     text-align: center;
   }
