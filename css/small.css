@@ -1,12 +1,17 @@
+html {
+  background-color: #c3d2db;
+  background-size: 30%;
+  font-family: 'verdana', sans-serif;
+  color: white;
+}
+
 main {
-    display: block;
-    background-color: azure;
-    max-width: 760px;
+    background-color: rgb(88, 241, 241);
     margin: 1.25rem , auto;
     padding: 1rem;
     font-size: 18px;
     line-height: 1.5;
-    text-align: center;
+
   }
   
   header,
@@ -34,8 +39,9 @@ main {
     font-family: 'Lato', sans-serif;
     text-align: center;
   }
-  ul {
+  ul li {
     text-decoration: none;
+    text-align: center;
   }
   
   p {

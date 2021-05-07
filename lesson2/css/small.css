@@ -4,7 +4,7 @@
     }
     .content {
         border: none;
-
+    }
     main {
         display: grid;
         grid-template-columns: 1fr;
