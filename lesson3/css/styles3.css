@@ -32,6 +32,7 @@ main {
     background: whitesmoke;
     margin: 1.5rem;
     padding: 1rem;
+    text-align: center;
 
 
 
@@ -54,7 +55,6 @@ footer{
 .nav-list {
 
     background: whitesmoke;
-    ;
     margin: 0;
     padding: 1rem 0;
 
