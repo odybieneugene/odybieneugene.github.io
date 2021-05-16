@@ -1,9 +1,10 @@
 
 #logo_nav {
     display: block;
-    float: left;
+    position:relative;
     width: 55%;
     padding: 1rem 2%;
+    margin: 1rem 2%;
 }
 h1, h2, h3, {
     display: flex;
