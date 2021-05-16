@@ -1,6 +1,14 @@
 
-
-
+#logo_nav {
+    display: block;
+    float: left;
+    width: 55%;
+    padding: 1rem 2%;
+}
+h1, h2, h3, {
+    display: flex;
+    justify-content: :right;
+}
 body {
     background-color: #c3d2db;
     font-family: 'Roboto', sans-serif;
@@ -8,111 +16,29 @@ body {
     margin: 0;
 }
 
-
-#logo_nav {
-
-    width: 150px;
-    height: auto;
-    cursor: pointer;
-    margin-right: auto;
-}
-
 header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 1.5rem;
-    font-size: 1.5rem;
+    display: block;
+    margin:1rem;
     background: #f5f5f5;
     border-radius: 1.2rem;
-    padding: 1rem;
+    padding: .4rem 5rem;
     font-weight: bold;
-
 }
 
-.heading {
-    display: flex;
-    flex-direction: column;
-}
-
-main {
-
+main section {
+    display: grid;
+    grid-template-columns: 1fr;
     background: whitesmoke;
     margin: 1.5rem;
     padding: 1rem;
     text-align: center;
-
-
-
 }
 
-footer{
-    
 
+footer{
         background: #fff;
         margin: 1.5rem;
         padding: 1rem;
         border-radius: 1.2rem;
-        text-align: center;
-    
-    
-    
-    
-}
-
-.nav-list {
-
-    background: whitesmoke;
-    margin: 0;
-    padding: 1rem 0;
-
-
-}
-
-.nav-list li {
-
-    display: inline-block;
-
-}
-
-.nav-item {
-
-    list-style: none;
-    margin-right: 5rem;
-}
-
-.nav-item li a {
-
-    transition: all 0.3s ease 0s;
-
-}
-
-.nav-item li a:hover {
-
-    color: rgb(87, 210, 30);
-
-}
-
-.nav-item a {
-
-    text-decoration: none;
-    color: black;
-}
-
-
-
-.colors th {
-
-
-    width: 15%;
-    height: 3em;
-
-
-}
-
-.colors {
-    width: 100%;
-    min-width: 350px;
-    margin: auto;
-    text-align: center;
+        text-align: center;    
 }
