@@ -34,7 +34,15 @@ main section {
     padding: 1rem;
     text-align: center;
 }
+main p, ul {
+    font-family: 'Verdana',sans-serif;
+}
 
+main div {
+    background-color: skyblue;
+    padding: 2rem;
+    margin: 1rem;
+}
 
 footer{
         background: #fff;

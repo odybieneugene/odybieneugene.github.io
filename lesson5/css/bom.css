@@ -51,3 +51,13 @@ li {
 	justify-content: space-between;
 	margin-bottom: 0.5rem;
 }
+
+header,
+  footer {
+    background-color: #bccaca;
+    max-width: 760px;
+    margin: 1.25rem auto;
+    padding: 1rem;
+    color: #fff;
+    text-align: center;
+  }
